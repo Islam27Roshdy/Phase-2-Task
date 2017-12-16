@@ -85,6 +85,17 @@
 
 
             }
+            .clear{
+              padding: 10px; color: white;font-size: 13px; font-weight: bolder;
+              background-color: border: 1px solid #333333; border-radius: 3px 3px 3px 3px;
+             color: #f5f5f5; padding: 5px;
+            }
+            .tables{
+              background: #fe921f; color: #ffffff; display: inline-block; font-family: 'Lato',
+              sans-serif; font-size: 12px; font-weight: bold;
+               line-height: 12px; letter-spacing: 1px; margin: 0 0 30px; padding: 10px 15px 8px; text-transform: uppercase
+              background-color:  #93291b;   box-shadow: 0 0 1px #93291b inset;
+            }
       .cont{
         margin-top: 100px;border: 2px red solid;
       }
